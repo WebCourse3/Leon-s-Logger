@@ -1,0 +1,20 @@
+{
+  "name": "typescriptleon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.50",
+    "express": "^4.16.2",
+    "file-system": "^2.2.2",
+    "node.js": "0.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.50"
+  }
+}
